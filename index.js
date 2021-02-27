@@ -1,3 +1,5 @@
-console.log(1);
+function test(num){
+    return num * 5;
+}
 
-console.log(2);
+console.log(test(5));
