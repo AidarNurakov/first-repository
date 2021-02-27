@@ -9,3 +9,6 @@ function telegram() {
 }
 
 console.log('Новая строчка кода');
+
+let func = (a,b) => a + b;
+console.log(func(4,3));
