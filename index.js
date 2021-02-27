@@ -5,5 +5,7 @@ function test(num){
 console.log(test(5));
 
 function telegram() {
-    console.log('..........')
-};
+    console.log('..........');
+}
+
+console.log('Новая строчка кода');
